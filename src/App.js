@@ -80,7 +80,7 @@ const Letter = styled.text`
   font-family: Georgia-Bold, Georgia;
 `;
 
-export default function Index() {
+export default function App() {
   return (
     <Page>
       <Container>
